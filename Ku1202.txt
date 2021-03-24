@@ -1,0 +1,3 @@
+saya sedanng belajar git
+Saya sudah lumayan paham git
+teks ini adalah perubahan pada cabang1
